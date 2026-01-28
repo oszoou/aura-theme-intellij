@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Fixed color scheme for C++
+
 ## 1.0.3
 
 - Color adjustments (#2)
