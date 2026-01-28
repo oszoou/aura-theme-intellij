@@ -1160,7 +1160,12 @@
     </option>
     <option name="OC.STRUCT_FIELD">
       <value>
-        <option name="FOREGROUND" value="61ffca" />
+        <option name="FOREGROUND" value="f694ff" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="82e2ff" />
       </value>
     </option>
     <option name="OC_FORMAT_TOKEN">
